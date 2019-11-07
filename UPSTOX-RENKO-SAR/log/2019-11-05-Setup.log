@@ -1,0 +1,8 @@
+2019-11-05 11:52:53,701 Logger Initialised
+2019-11-05 11:52:53,703 config.ini Initialised
+2019-11-05 11:52:54,769 Successfully started X with display ":1001".
+2019-11-05 11:53:08,737 Web Driver Initialised
+2019-11-05 11:53:08,755 Cookies Deleted
+2019-11-05 11:53:08,771 URL Generated
+2019-11-05 11:53:08,772 URL: https://api.upstox.com/index/dialog/authorize?apiKey=4bzgw7xiVK9yaJSFYWavWalOkcF6NNPm2Fy8NohM&redirect_uri=http%3A%2F%2F127.0.0.1&response_type=code
+2019-11-05 11:53:09,240 Upstox Login Page Opened
